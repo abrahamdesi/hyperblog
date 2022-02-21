@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas practicas
 * Trucos muy locos de profesor
 * Las personalidades multiples de Desi
+* Creado por el incleible Desi
 
 Como recordatorio: **Este readme es de pruba**. Diseñado como prueba. Checate mi [paguina de youtube](https://www.youtube.com/channel/UCYh_4OrY794sxk4Lffo4zzw)
