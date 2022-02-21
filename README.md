@@ -10,5 +10,7 @@ Un blog increible para el curso de Git y Github de Platzi
 * Trucos muy locos de profesor
 * Las personalidades multiples de Desi
 * Creado por el incleible Desi
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Como recordatorio: **Este readme es de pruba**. Diseñado como prueba. Checate mi [paguina de youtube](https://www.youtube.com/channel/UCYh_4OrY794sxk4Lffo4zzw)
